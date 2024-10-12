@@ -1,0 +1,15 @@
+C:\Users\99477\Desktop\homework\methods2\methods2\bin\Debug\net8.0\methods2.exe
+C:\Users\99477\Desktop\homework\methods2\methods2\bin\Debug\net8.0\methods2.deps.json
+C:\Users\99477\Desktop\homework\methods2\methods2\bin\Debug\net8.0\methods2.runtimeconfig.json
+C:\Users\99477\Desktop\homework\methods2\methods2\bin\Debug\net8.0\methods2.dll
+C:\Users\99477\Desktop\homework\methods2\methods2\bin\Debug\net8.0\methods2.pdb
+C:\Users\99477\Desktop\homework\methods2\methods2\obj\Debug\net8.0\methods2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99477\Desktop\homework\methods2\methods2\obj\Debug\net8.0\methods2.AssemblyInfoInputs.cache
+C:\Users\99477\Desktop\homework\methods2\methods2\obj\Debug\net8.0\methods2.AssemblyInfo.cs
+C:\Users\99477\Desktop\homework\methods2\methods2\obj\Debug\net8.0\methods2.csproj.CoreCompileInputs.cache
+C:\Users\99477\Desktop\homework\methods2\methods2\obj\Debug\net8.0\methods2.sourcelink.json
+C:\Users\99477\Desktop\homework\methods2\methods2\obj\Debug\net8.0\methods2.dll
+C:\Users\99477\Desktop\homework\methods2\methods2\obj\Debug\net8.0\refint\methods2.dll
+C:\Users\99477\Desktop\homework\methods2\methods2\obj\Debug\net8.0\methods2.pdb
+C:\Users\99477\Desktop\homework\methods2\methods2\obj\Debug\net8.0\methods2.genruntimeconfig.cache
+C:\Users\99477\Desktop\homework\methods2\methods2\obj\Debug\net8.0\ref\methods2.dll

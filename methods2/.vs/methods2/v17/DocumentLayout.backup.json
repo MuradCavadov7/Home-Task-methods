@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\99477\\Desktop\\homework\\methods2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15B44D6E-A4B5-48FF-97D5-339D5A9FC264}|methods2\\methods2.csproj|c:\\users\\99477\\desktop\\homework\\methods2\\methods2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B44D6E-A4B5-48FF-97D5-339D5A9FC264}|methods2\\methods2.csproj|solutionrelative:methods2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\99477\\Desktop\\homework\\methods2\\methods2\\Program.cs",
+              "RelativeDocumentMoniker": "methods2\\Program.cs",
+              "ToolTip": "C:\\Users\\99477\\Desktop\\homework\\methods2\\methods2\\Program.cs*",
+              "RelativeToolTip": "methods2\\Program.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAiwBMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T14:39:43.516Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
