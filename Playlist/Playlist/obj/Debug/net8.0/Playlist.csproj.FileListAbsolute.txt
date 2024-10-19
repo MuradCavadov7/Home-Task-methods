@@ -1,0 +1,15 @@
+C:\Users\99477\Desktop\homework\Playlist\Playlist\bin\Debug\net8.0\Playlist.exe
+C:\Users\99477\Desktop\homework\Playlist\Playlist\bin\Debug\net8.0\Playlist.deps.json
+C:\Users\99477\Desktop\homework\Playlist\Playlist\bin\Debug\net8.0\Playlist.runtimeconfig.json
+C:\Users\99477\Desktop\homework\Playlist\Playlist\bin\Debug\net8.0\Playlist.dll
+C:\Users\99477\Desktop\homework\Playlist\Playlist\bin\Debug\net8.0\Playlist.pdb
+C:\Users\99477\Desktop\homework\Playlist\Playlist\obj\Debug\net8.0\Playlist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99477\Desktop\homework\Playlist\Playlist\obj\Debug\net8.0\Playlist.AssemblyInfoInputs.cache
+C:\Users\99477\Desktop\homework\Playlist\Playlist\obj\Debug\net8.0\Playlist.AssemblyInfo.cs
+C:\Users\99477\Desktop\homework\Playlist\Playlist\obj\Debug\net8.0\Playlist.csproj.CoreCompileInputs.cache
+C:\Users\99477\Desktop\homework\Playlist\Playlist\obj\Debug\net8.0\Playlist.sourcelink.json
+C:\Users\99477\Desktop\homework\Playlist\Playlist\obj\Debug\net8.0\Playlist.dll
+C:\Users\99477\Desktop\homework\Playlist\Playlist\obj\Debug\net8.0\refint\Playlist.dll
+C:\Users\99477\Desktop\homework\Playlist\Playlist\obj\Debug\net8.0\Playlist.pdb
+C:\Users\99477\Desktop\homework\Playlist\Playlist\obj\Debug\net8.0\Playlist.genruntimeconfig.cache
+C:\Users\99477\Desktop\homework\Playlist\Playlist\obj\Debug\net8.0\ref\Playlist.dll
