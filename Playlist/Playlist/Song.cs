@@ -52,7 +52,7 @@ internal class Song
             _aggregation = value;
         }
     }
-    private double _totalRating = 0;
+    private float _totalRating = 0;
     private int _ratingCount = 0;
 
 
@@ -87,7 +87,7 @@ internal class Song
     {
         if (Genre == "Pop" || Genre == "Rock" || Genre == "Jazz" || Genre == "Rap" || Genre == "Techno")
         {
-            double averageRating = 0;
+            float averageRating = 0;
             averageRating = _totalRating / _ratingCount;
             Console.WriteLine($"Rating status {averageRating} from {_ratingCount} Person");
         }
