@@ -14,6 +14,10 @@ internal class Singer
         {
             if (value.Length <= 100)
                 _name = value;
+            else
+            {
+                Console.WriteLine("uzunluq 100 den cox ola bilmez");
+            }
         }
     }
     private string _surname;
@@ -28,6 +32,10 @@ internal class Singer
         {
             if (value.Length <= 100)
                 _surname = value;
+            else
+            {
+                Console.WriteLine("uzunluq 100 den cox ola bilmez");
+            }
         }
     }
     private int _age;
@@ -39,6 +47,10 @@ internal class Singer
         {
             if (value <= 170)
                 _age = value;
+            else 
+            {
+                Console.WriteLine("yasi 170 den cox ola bilmez");
+            }
         }
     }
     public Singer(string name, string surname, int age)

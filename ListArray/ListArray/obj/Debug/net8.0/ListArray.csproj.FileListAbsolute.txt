@@ -1,0 +1,15 @@
+C:\Users\99477\Desktop\homework\ListArray\ListArray\bin\Debug\net8.0\ListArray.exe
+C:\Users\99477\Desktop\homework\ListArray\ListArray\bin\Debug\net8.0\ListArray.deps.json
+C:\Users\99477\Desktop\homework\ListArray\ListArray\bin\Debug\net8.0\ListArray.runtimeconfig.json
+C:\Users\99477\Desktop\homework\ListArray\ListArray\bin\Debug\net8.0\ListArray.dll
+C:\Users\99477\Desktop\homework\ListArray\ListArray\bin\Debug\net8.0\ListArray.pdb
+C:\Users\99477\Desktop\homework\ListArray\ListArray\obj\Debug\net8.0\ListArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99477\Desktop\homework\ListArray\ListArray\obj\Debug\net8.0\ListArray.AssemblyInfoInputs.cache
+C:\Users\99477\Desktop\homework\ListArray\ListArray\obj\Debug\net8.0\ListArray.AssemblyInfo.cs
+C:\Users\99477\Desktop\homework\ListArray\ListArray\obj\Debug\net8.0\ListArray.csproj.CoreCompileInputs.cache
+C:\Users\99477\Desktop\homework\ListArray\ListArray\obj\Debug\net8.0\ListArray.sourcelink.json
+C:\Users\99477\Desktop\homework\ListArray\ListArray\obj\Debug\net8.0\ListArray.dll
+C:\Users\99477\Desktop\homework\ListArray\ListArray\obj\Debug\net8.0\refint\ListArray.dll
+C:\Users\99477\Desktop\homework\ListArray\ListArray\obj\Debug\net8.0\ListArray.pdb
+C:\Users\99477\Desktop\homework\ListArray\ListArray\obj\Debug\net8.0\ListArray.genruntimeconfig.cache
+C:\Users\99477\Desktop\homework\ListArray\ListArray\obj\Debug\net8.0\ref\ListArray.dll

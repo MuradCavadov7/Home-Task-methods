@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\99477\\Desktop\\homework\\ListArray\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11087555-0978-4DE7-8B38-2044A480AB33}|ListArray\\ListArray.csproj|c:\\users\\99477\\desktop\\homework\\listarray\\listarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11087555-0978-4DE7-8B38-2044A480AB33}|ListArray\\ListArray.csproj|solutionrelative:listarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11087555-0978-4DE7-8B38-2044A480AB33}|ListArray\\ListArray.csproj|c:\\users\\99477\\desktop\\homework\\listarray\\listarray\\listint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11087555-0978-4DE7-8B38-2044A480AB33}|ListArray\\ListArray.csproj|solutionrelative:listarray\\listint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListInt.cs",
+              "DocumentMoniker": "C:\\Users\\99477\\Desktop\\homework\\ListArray\\ListArray\\ListInt.cs",
+              "RelativeDocumentMoniker": "ListArray\\ListInt.cs",
+              "ToolTip": "C:\\Users\\99477\\Desktop\\homework\\ListArray\\ListArray\\ListInt.cs",
+              "RelativeToolTip": "ListArray\\ListInt.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAIwGIAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T15:48:40.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\99477\\Desktop\\homework\\ListArray\\ListArray\\Program.cs",
+              "RelativeDocumentMoniker": "ListArray\\Program.cs",
+              "ToolTip": "C:\\Users\\99477\\Desktop\\homework\\ListArray\\ListArray\\Program.cs",
+              "RelativeToolTip": "ListArray\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T15:47:28.034Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

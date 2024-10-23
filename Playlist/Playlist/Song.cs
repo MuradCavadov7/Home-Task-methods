@@ -16,6 +16,10 @@ internal class Song
         {
             if (value.Length <= 100)
                 _name = value;
+            else
+            {
+                Console.WriteLine("uzunluq 100 den cox ola bilmez");
+            }
         }
     }
 
