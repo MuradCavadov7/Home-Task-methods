@@ -1,0 +1,15 @@
+C:\Users\99477\Desktop\homework\DatetimeException\DatetimeException\bin\Debug\net8.0\DatetimeException.exe
+C:\Users\99477\Desktop\homework\DatetimeException\DatetimeException\bin\Debug\net8.0\DatetimeException.deps.json
+C:\Users\99477\Desktop\homework\DatetimeException\DatetimeException\bin\Debug\net8.0\DatetimeException.runtimeconfig.json
+C:\Users\99477\Desktop\homework\DatetimeException\DatetimeException\bin\Debug\net8.0\DatetimeException.dll
+C:\Users\99477\Desktop\homework\DatetimeException\DatetimeException\bin\Debug\net8.0\DatetimeException.pdb
+C:\Users\99477\Desktop\homework\DatetimeException\DatetimeException\obj\Debug\net8.0\DatetimeException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99477\Desktop\homework\DatetimeException\DatetimeException\obj\Debug\net8.0\DatetimeException.AssemblyInfoInputs.cache
+C:\Users\99477\Desktop\homework\DatetimeException\DatetimeException\obj\Debug\net8.0\DatetimeException.AssemblyInfo.cs
+C:\Users\99477\Desktop\homework\DatetimeException\DatetimeException\obj\Debug\net8.0\DatetimeException.csproj.CoreCompileInputs.cache
+C:\Users\99477\Desktop\homework\DatetimeException\DatetimeException\obj\Debug\net8.0\DatetimeException.sourcelink.json
+C:\Users\99477\Desktop\homework\DatetimeException\DatetimeException\obj\Debug\net8.0\DatetimeException.dll
+C:\Users\99477\Desktop\homework\DatetimeException\DatetimeException\obj\Debug\net8.0\refint\DatetimeException.dll
+C:\Users\99477\Desktop\homework\DatetimeException\DatetimeException\obj\Debug\net8.0\DatetimeException.pdb
+C:\Users\99477\Desktop\homework\DatetimeException\DatetimeException\obj\Debug\net8.0\DatetimeException.genruntimeconfig.cache
+C:\Users\99477\Desktop\homework\DatetimeException\DatetimeException\obj\Debug\net8.0\ref\DatetimeException.dll
