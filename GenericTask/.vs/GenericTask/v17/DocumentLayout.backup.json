@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\99477\\Desktop\\homework\\GenericTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A394FB87-BCB3-4A83-900E-4CD544121A22}|GenericTask\\GenericTask.csproj|c:\\users\\99477\\desktop\\homework\\generictask\\generictask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A394FB87-BCB3-4A83-900E-4CD544121A22}|GenericTask\\GenericTask.csproj|solutionrelative:generictask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A394FB87-BCB3-4A83-900E-4CD544121A22}|GenericTask\\GenericTask.csproj|c:\\users\\99477\\desktop\\homework\\generictask\\generictask\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A394FB87-BCB3-4A83-900E-4CD544121A22}|GenericTask\\GenericTask.csproj|solutionrelative:generictask\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A394FB87-BCB3-4A83-900E-4CD544121A22}|GenericTask\\GenericTask.csproj|c:\\users\\99477\\desktop\\homework\\generictask\\generictask\\zoocage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A394FB87-BCB3-4A83-900E-4CD544121A22}|GenericTask\\GenericTask.csproj|solutionrelative:generictask\\zoocage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A394FB87-BCB3-4A83-900E-4CD544121A22}|GenericTask\\GenericTask.csproj|c:\\users\\99477\\desktop\\homework\\generictask\\generictask\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A394FB87-BCB3-4A83-900E-4CD544121A22}|GenericTask\\GenericTask.csproj|solutionrelative:generictask\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ZooCage.cs",
+              "DocumentMoniker": "C:\\Users\\99477\\Desktop\\homework\\GenericTask\\GenericTask\\ZooCage.cs",
+              "RelativeDocumentMoniker": "GenericTask\\ZooCage.cs",
+              "ToolTip": "C:\\Users\\99477\\Desktop\\homework\\GenericTask\\GenericTask\\ZooCage.cs",
+              "RelativeToolTip": "GenericTask\\ZooCage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T16:57:48.581Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Food.cs",
+              "DocumentMoniker": "C:\\Users\\99477\\Desktop\\homework\\GenericTask\\GenericTask\\Food.cs",
+              "RelativeDocumentMoniker": "GenericTask\\Food.cs",
+              "ToolTip": "C:\\Users\\99477\\Desktop\\homework\\GenericTask\\GenericTask\\Food.cs",
+              "RelativeToolTip": "GenericTask\\Food.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T16:45:19.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\99477\\Desktop\\homework\\GenericTask\\GenericTask\\Animal.cs",
+              "RelativeDocumentMoniker": "GenericTask\\Animal.cs",
+              "ToolTip": "C:\\Users\\99477\\Desktop\\homework\\GenericTask\\GenericTask\\Animal.cs*",
+              "RelativeToolTip": "GenericTask\\Animal.cs*",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAwCkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T16:30:44.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\99477\\Desktop\\homework\\GenericTask\\GenericTask\\Program.cs",
+              "RelativeDocumentMoniker": "GenericTask\\Program.cs",
+              "ToolTip": "C:\\Users\\99477\\Desktop\\homework\\GenericTask\\GenericTask\\Program.cs",
+              "RelativeToolTip": "GenericTask\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwB0AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T16:30:12.964Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
