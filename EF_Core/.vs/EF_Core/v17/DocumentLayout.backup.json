@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\99477\\Desktop\\homework\\EF_Core\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C08D83D3-A0B0-4338-8E28-712441243F66}|EF_Core\\EF_Core.csproj|c:\\users\\99477\\desktop\\homework\\ef_core\\ef_core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C08D83D3-A0B0-4338-8E28-712441243F66}|EF_Core\\EF_Core.csproj|solutionrelative:ef_core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C08D83D3-A0B0-4338-8E28-712441243F66}|EF_Core\\EF_Core.csproj|c:\\users\\99477\\desktop\\homework\\ef_core\\ef_core\\helpers\\casehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C08D83D3-A0B0-4338-8E28-712441243F66}|EF_Core\\EF_Core.csproj|solutionrelative:ef_core\\helpers\\casehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C08D83D3-A0B0-4338-8E28-712441243F66}|EF_Core\\EF_Core.csproj|c:\\users\\99477\\desktop\\homework\\ef_core\\ef_core\\models\\basket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C08D83D3-A0B0-4338-8E28-712441243F66}|EF_Core\\EF_Core.csproj|solutionrelative:ef_core\\models\\basket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C08D83D3-A0B0-4338-8E28-712441243F66}|EF_Core\\EF_Core.csproj|c:\\users\\99477\\desktop\\homework\\ef_core\\ef_core\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C08D83D3-A0B0-4338-8E28-712441243F66}|EF_Core\\EF_Core.csproj|solutionrelative:ef_core\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C08D83D3-A0B0-4338-8E28-712441243F66}|EF_Core\\EF_Core.csproj|c:\\users\\99477\\desktop\\homework\\ef_core\\ef_core\\migrations\\20241118215109_createdtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C08D83D3-A0B0-4338-8E28-712441243F66}|EF_Core\\EF_Core.csproj|solutionrelative:ef_core\\migrations\\20241118215109_createdtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C08D83D3-A0B0-4338-8E28-712441243F66}|EF_Core\\EF_Core.csproj|c:\\users\\99477\\desktop\\homework\\ef_core\\ef_core\\exceptions\\usernotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C08D83D3-A0B0-4338-8E28-712441243F66}|EF_Core\\EF_Core.csproj|solutionrelative:ef_core\\exceptions\\usernotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C08D83D3-A0B0-4338-8E28-712441243F66}|EF_Core\\EF_Core.csproj|c:\\users\\99477\\desktop\\homework\\ef_core\\ef_core\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C08D83D3-A0B0-4338-8E28-712441243F66}|EF_Core\\EF_Core.csproj|solutionrelative:ef_core\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C08D83D3-A0B0-4338-8E28-712441243F66}|EF_Core\\EF_Core.csproj|c:\\users\\99477\\desktop\\homework\\ef_core\\ef_core\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C08D83D3-A0B0-4338-8E28-712441243F66}|EF_Core\\EF_Core.csproj|solutionrelative:ef_core\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20241118215109_CreatedTable.cs",
+              "DocumentMoniker": "C:\\Users\\99477\\Desktop\\homework\\EF_Core\\EF_Core\\Migrations\\20241118215109_CreatedTable.cs",
+              "RelativeDocumentMoniker": "EF_Core\\Migrations\\20241118215109_CreatedTable.cs",
+              "ToolTip": "C:\\Users\\99477\\Desktop\\homework\\EF_Core\\EF_Core\\Migrations\\20241118215109_CreatedTable.cs",
+              "RelativeToolTip": "EF_Core\\Migrations\\20241118215109_CreatedTable.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T21:51:10.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CaseHelper.cs",
+              "DocumentMoniker": "C:\\Users\\99477\\Desktop\\homework\\EF_Core\\EF_Core\\Helpers\\CaseHelper.cs",
+              "RelativeDocumentMoniker": "EF_Core\\Helpers\\CaseHelper.cs",
+              "ToolTip": "C:\\Users\\99477\\Desktop\\homework\\EF_Core\\EF_Core\\Helpers\\CaseHelper.cs",
+              "RelativeToolTip": "EF_Core\\Helpers\\CaseHelper.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAYwFAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T03:02:53.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\99477\\Desktop\\homework\\EF_Core\\EF_Core\\Exceptions\\UserNotFoundException.cs",
+              "RelativeDocumentMoniker": "EF_Core\\Exceptions\\UserNotFoundException.cs",
+              "ToolTip": "C:\\Users\\99477\\Desktop\\homework\\EF_Core\\EF_Core\\Exceptions\\UserNotFoundException.cs",
+              "RelativeToolTip": "EF_Core\\Exceptions\\UserNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T15:58:36.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\99477\\Desktop\\homework\\EF_Core\\EF_Core\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "EF_Core\\Contexts\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\99477\\Desktop\\homework\\EF_Core\\EF_Core\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "EF_Core\\Contexts\\AppDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T13:41:26.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Basket.cs",
+              "DocumentMoniker": "C:\\Users\\99477\\Desktop\\homework\\EF_Core\\EF_Core\\Models\\Basket.cs",
+              "RelativeDocumentMoniker": "EF_Core\\Models\\Basket.cs",
+              "ToolTip": "C:\\Users\\99477\\Desktop\\homework\\EF_Core\\EF_Core\\Models\\Basket.cs",
+              "RelativeToolTip": "EF_Core\\Models\\Basket.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAASwA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T13:18:16.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\99477\\Desktop\\homework\\EF_Core\\EF_Core\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "EF_Core\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\99477\\Desktop\\homework\\EF_Core\\EF_Core\\Models\\Product.cs",
+              "RelativeToolTip": "EF_Core\\Models\\Product.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAawAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T13:16:46.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\99477\\Desktop\\homework\\EF_Core\\EF_Core\\Models\\User.cs",
+              "RelativeDocumentMoniker": "EF_Core\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\99477\\Desktop\\homework\\EF_Core\\EF_Core\\Models\\User.cs",
+              "RelativeToolTip": "EF_Core\\Models\\User.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T13:14:30.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\99477\\Desktop\\homework\\EF_Core\\EF_Core\\Program.cs",
+              "RelativeDocumentMoniker": "EF_Core\\Program.cs",
+              "ToolTip": "C:\\Users\\99477\\Desktop\\homework\\EF_Core\\EF_Core\\Program.cs",
+              "RelativeToolTip": "EF_Core\\Program.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAgwDAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T12:59:12.002Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
